@@ -7,6 +7,12 @@ A case study to see if a film's budget leads to more box office revenue. Let's f
 To install the libraries and dependencies needed to run the notebook, run:
 `pip install -r requirements.txt`
 
+## Libraries Used
+
+`pandas` - for data manipulation and computations.  
+`matplotlib` and `seaborn` - for visualization of data insights.  
+`scikit-learn` - for machine learning calculations, for linear regression in this study.
+
 ## Author
 
 Christian Klint M. Labadia
